@@ -71,7 +71,11 @@ side menu             |  dashboard
 </p>
 </details>
 
+Link web: https://demo-store.katalon.com/
 
+Link API json: https://demo-store.katalon.com/server/swagger.json
+
+Link swagger UI: https://demo-store.katalon.com/server/api-docs/swagger
 
 
 
